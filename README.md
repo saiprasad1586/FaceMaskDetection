@@ -2,4 +2,4 @@
 
 ## Download Trained Model and Dataset
 
-- Click Here to download weights and Dataset[https://tinyurl.com/downloadweights]
+- Click Here to download weights and Dataset [https://tinyurl.com/downloadweights]
